@@ -92,7 +92,7 @@ I care about **understanding systems deeply**, not just using them.
          alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:maximilian.aigner@gmail.com">
+  <a href="mailto:maxiaigner01@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
          alt="Gmail" width="40" height="40"/>
   </a>
