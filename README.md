@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximilian Aigner</h1>
 <h3 align="center">
-Junior IT Specialist · Programming-Focused · Network Systems & Automation
+Junior IT Specialist · Programming & Automation · Network Systems
 </h3>
 
 <p align="center">
@@ -9,70 +9,68 @@ Junior IT Specialist · Programming-Focused · Network Systems & Automation
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **junior IT professional** working in **Network & Systems Administration**,  
-with a strong focus on **learning programming and building automation tools**.
+I’m a junior IT specialist working with **network and system administration**,  
+with a strong interest in **programming and automation**.
 
-- Highly motivated to **learn and develop continuously**
-- Writing **internal automation tools** for real-world IT workflows
-- Hands-on experience in **networked systems**
-- Comfortable switching between **Windows 11 and Linux (Kubuntu)** as daily drivers
-- Actively pushing my skills beyond junior level through practice and projects
+I care about understanding how systems actually work — not just using tools, but knowing what’s happening underneath.
 
-I care about **understanding systems deeply**, not just using them.
+- Building automation tools for real IT workflows  
+- Hands-on experience with networked systems  
+- Daily use of Windows 11 and Linux (Kubuntu)  
+- Constantly learning and improving beyond junior level  
 
 ---
 
-## Current Focus
+## What I’m Working On
 
-- Strengthening **programming fundamentals**
-- Writing clean, readable, and maintainable code
-- Combining **programming, networking, and systems**
-- Learning from real-world problems, mistakes, and refactoring
+- Strengthening programming fundamentals  
+- Writing clean, readable, maintainable code  
+- Combining networking, systems, and scripting  
+- Learning from real-world problems and refactoring  
 
 ---
 
 ## Tech Stack
 
 ### Programming
-- **C** – memory management, pointers, low-level behavior  
-- **Python** – automation, scripting, internal tools  
-- Bash / PowerShell scripting  
+- C (memory management, pointers, low-level behavior)
+- Python (automation, scripting)
+- Bash / PowerShell
 
-### Network Systems
-- OSI Model & TCP/IP  
-- Cisco (Routing & Switching)  
-- Fortigate, Sophos  
-- VLANs, VPNs, Firewalls  
+### Networking
+- TCP/IP, OSI Model  
+- Routing & Switching (Cisco)
+- Firewalls, VLANs, VPNs (Fortigate, Sophos)
+- I love DNS
 
 ### Operating Systems
-- **Windows 11** – daily driver, automation, administration  
-- **Linux (Kubuntu)** – daily driver, scripting, networking  
+- Windows 11  
+- Linux (Kubuntu)
 
-### Basics & Security
+### Security Basics
 - Secure system administration  
-- Network fundamentals and analysis  
-- Intro to ethical hacking (TryHackMe)  
+- Introductory ethical hacking (TryHackMe)
 
 ---
 
-## Actively Learning
+## Learning & Practice
 
-- Deeper **C internals** (stack, heap, compilation)
-- Python internals compared to C
+- C internals (stack, heap, compilation)
+- Python internals vs. C
 - Automation patterns and best practices
 - Network packet analysis
 - Secure system design
 
 ---
 
-## Projects & Practice
+## Projects
 
-- Internal IT automation tools (Python / PowerShell / Bash)
-- TryHackMe learning labs
-- Network simulations and configurations
-- Learning-focused mini projects
+- Internal IT automation tools
+- TryHackMe labs
+- Network simulations
+- Small learning-focused projects
 
 ---
 
@@ -84,7 +82,7 @@ I care about **understanding systems deeply**, not just using them.
 
 ---
 
-## Connect With Me
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maximilian-aigner-331215242/" target="_blank">
@@ -98,8 +96,6 @@ I care about **understanding systems deeply**, not just using them.
   </a>
 </p>
 
-Feel free to connect with me on LinkedIn or reach out via email.
-
 ---
 
-*Junior by title — growing by intention.*
+
