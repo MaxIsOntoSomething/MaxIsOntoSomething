@@ -13,11 +13,13 @@ Currently working on improving my **Python, C, and Linux** skills.
 - Automation & troubleshooting
 - Security & TryHackMe
 
+
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxIsOntoSomething&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxIsOntoSomething&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2" alt="GitHub Stats" />
 </p>
+
 
 ### Contact
 
