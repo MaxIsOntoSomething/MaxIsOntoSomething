@@ -23,4 +23,4 @@ Currently working on improving my **Python, C, and Linux** skills.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/maximilian-aigner-331215242/) · [Email](mailto:maxiaigner01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maximilian-aigner-331215242/) · [Email](mailto:hello@maxiaigner.com)
